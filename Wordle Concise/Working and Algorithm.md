@@ -1,5 +1,5 @@
 # About the Code
-The code functions to provide a classic menu-based version of the game of wordle.
+The code functions to provide a classic menu-based (dictionary pre-defined) version of the game of wordle.
 
 ## Algorithm:
 - The header files iostream, string, and random are included.
