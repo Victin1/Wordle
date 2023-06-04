@@ -10,7 +10,6 @@ string randword(){
     int randnumb = gen();
     randnumb = abs(randnumb);
     randnumb = randnumb%10;
-    //cout<<randnumb;
     return words[randnumb];
 }
 
