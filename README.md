@@ -24,3 +24,5 @@ This repository contains, primarily, 2 program files:
  - Wordle Concise <br> This lets you play the game assuming a dictionary of a few simple words that have been specificed within the code. More so, you may guess a combination of any 5 letters i.e. the guess need not be a word in the actual English dictionary. <br>This version is available for 'quickplay' and does not require the user to download an additional text file for the dictionary.
 
  - Wordle Archetype <br> This lets you play the game using a downloadable text file that contains essentially every 5-letter word in the official Wordle dictionary. More so, only guesses that fall under this dictionary are allowed. <br>This version contains holds more variety and is closer to the gameplay of the official Wordle application.
+
+<b>Note: At this point in time, Wordle Concise is recommended.
