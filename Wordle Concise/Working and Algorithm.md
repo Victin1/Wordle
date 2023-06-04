@@ -14,3 +14,8 @@ The code functions to provide a classic menu-based (dictionary pre-defined) vers
 - The forward-declared menu() function is defined to perform the function of displaying 3 options (PLAY, HOW TO PLAY, EXIT), each of which can be selected by the user by inputting their allotted number. Based on the input, using a switch-case algorithm, the respective function (playgame(), howtoplay(), quit()) is called, with the default case returning to the menu again by calling the menu() function (similar to recursive syntax).
 - The main() function is declared with return type int, and defined to display a greeting message and then calling the menu() function.
 - Finally, the main() function is closed by returning the integer 0.
+
+## Need-to-knows:
+- The 'dictionary' of possible answers is limited and does not contain every possible 5-letter word.
+- Each guess is valid as long as it contains exactly 5 characters and each character is an uppercase letter.
+- To play the version where the entire list of possible answers in the official game of wordle are used, refer the Wordle Archetype directory in this repository: 
