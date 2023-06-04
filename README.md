@@ -12,6 +12,7 @@ In each of the 6 attempts, you are allowed to guess a valid 5-letter word. Your 
   - No luck! <br> '\-' means that the letter does not appear in the secret word at all.
   - Close! <br>'\*' means that the letter appears in the secret word but not in the guessed position.
   - On point! <br>'\^' means that the letter appears in that position in the secret word.
+
 <br>The game ends either when you guess the word correctly or if you are unable to within 6 tries.
 
 Tip: You may choose to either prioritiize minimizing the number of attempts or ensuring the word is guessed within 6 attempts.
