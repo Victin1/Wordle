@@ -20,7 +20,7 @@ Tip: You may choose to either prioritiize minimizing the number of attempts or e
 
 
 # About the Program
-This repository contains, primarily, 2 program files:
+This repository contains, primarily, 2 program directories:
   
  - Wordle Concise <br> This lets you play the game assuming a dictionary of a few (at this point in time, 10) simple words that have been specificed within the code. More so, you may guess a combination of any 5 letters i.e. the guess need not be a word in the actual English dictionary. <br>This version is available for 'quickplay' and does not require the user to download an additional text file for the dictionary.
 
