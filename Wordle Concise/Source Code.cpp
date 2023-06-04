@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 #include <string>
 #include <random>
@@ -102,4 +101,3 @@ void menu(){
         menu();
     return 0;
 }
-```
