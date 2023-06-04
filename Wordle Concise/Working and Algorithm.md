@@ -18,4 +18,4 @@ The code functions to provide a classic menu-based (dictionary pre-defined) vers
 ## Need-to-knows:
 - The 'dictionary' of possible answers is limited and does not contain every possible 5-letter word.
 - Each guess is valid as long as it contains exactly 5 characters and each character is an uppercase letter.
-- To play the version where the entire list of possible answers in the official game of wordle are used, refer the Wordle Archetype directory in this repository: 
+- To play the version where the entire list of possible answers in the official game of wordle are used, refer the Wordle Archetype directory in this repository: https://github.com/Victin1/Wordle/tree/39b965d833d7c801873c6989c853bc16c82958df/Wordle%20Archetype
